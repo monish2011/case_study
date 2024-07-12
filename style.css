@@ -1,0 +1,22 @@
+.test_image_and_result{
+    border-radius:20px;
+    background-color:grey;
+
+    margin:30px;
+    
+    
+}
+#google_lens_output{
+    border-radius: 20px;
+    background-color:white;
+    color:purple;
+    
+}
+#mobilenet_output
+{
+    border-radius: 20px;
+    background-color:white;
+    color:purple;
+    
+    
+}
